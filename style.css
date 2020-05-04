@@ -1,0 +1,70 @@
+#logo{
+	margin-top: 	56px;
+	max-width : 	150px;
+	height: 		auto;
+	display: 		block;
+	margin-left: 	auto;
+	margin-right: 	auto
+}
+
+p#myhour{
+	margin-left: 	auto;
+	margin-right: 	auto;
+	width: 			15em;
+	text-align: 	center;
+	
+}
+body{
+	background-color: 	black;
+	color: 				white;
+	font-family: 		supreme_police;
+	font-size: 			small;
+}
+
+@font-face {
+	font-family: 'supreme_police';
+	src: url('supreme_police.otf');
+}
+.menu{
+	padding-top: 	100px;
+	text-align: 	left;
+	margin-left: 	auto;
+	margin-right: 	auto;
+	width: 			15em
+}
+
+.menu a {
+	color: 				white;
+	text-decoration: 	none;
+	
+}
+.menu a:hover {
+	background-color: 	red;
+}
+.heure {
+	font-family: 	'supreme_police';
+	margin-left: 	auto;
+	margin-right:	auto;
+	text-align:		center;
+	width: 			15em;
+}
+
+.reseaux {
+	text-align: center;
+	
+}
+	
+#fb {
+	text-align: center;
+	max-width: 15px;
+	height: auto;
+	
+}
+
+#ig {
+	max-width: 15px;
+	height: auto;
+	
+	
+}
+	
